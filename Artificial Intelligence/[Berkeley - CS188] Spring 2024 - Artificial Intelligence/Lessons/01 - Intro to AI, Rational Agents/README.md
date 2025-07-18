@@ -5,7 +5,7 @@ UC Berkeley CS 188 Spring 2024 Course, Lesson 1
 Thanks to ```Cameron Allen```, ```Michael Cohen``` and other course staffs
 
 ## What is Artificial Intelligence ?
-##### AI is having real-world impacts
+### AI is having real-world impacts
 Text assistants, Image generation and ..., who can live without it ? 
 it has been impacted on economy, politics, law, labor (taking our jobs), sciences and educations
 - The global AI market size till 2022 was USD 454.12 billion, now it is [USD 638.23 billion](https://www.precedenceresearch.com/artificial-intelligence-market). government is trying to controll this market which is why heads of AI companies meeting with the heads of The United States government even with heads of other countires. These companies have now a lot of political power.
@@ -14,7 +14,7 @@ it has been impacted on economy, politics, law, labor (taking our jobs), science
 - Meanwhile it's having an impact on science, like [AlphaFold](https://www.nature.com/articles/d41586-022-02999-9) discovery, which was a breakthrough in the protein-folding problem a couple of years ago and DeepMind won this big prize for basically you take a sequence of amino acids and then you figure out how it turns into a 3D protein object. this has been a long-standing problem in drug discovery and the life sciences, more broadly. even not just in discovery but in control like another DeepMind project which is [controlling nuclear fusion using AI](https://www.wired.com/story/deepmind-ai-nuclear-fusion/).
 - And in education, then there's all these questions about why [ChatGPT should be banned in schools](https://www.forbes.com/sites/ariannajohnson/2023/01/18/chatgpt-in-schools-heres-where-its-banned-and-how-it-could-potentially-help-students/).
 
-##### Ok, but what actually is AI?
+### Ok, but what actually is AI ?
 What should we build ?
 * Make machines that ***think like people*** ?
   * Classical cognitive science, neuroscience-style approach
@@ -28,7 +28,7 @@ What should we build ?
 * Make machines that ***act rationally*** ?
   * This is the key to all of it. this course will take the stance that is the way to go about it.
 
-##### Rational Decisions
+### Rational Decisions
 we'll use the term ```Rational``` in a very specific, technical way :
 * ***Rational :*** maximally achieving predefined goals
 * Goals are expressed in terms of the ***utility*** of outcomes
@@ -38,5 +38,4 @@ we'll use the term ```Rational``` in a very specific, technical way :
 ***It doesn't really matter how you're thinking, as long as your actions correspond to whatever brings about the biggest expected utility.***
 A better name for this course should be ```Computational Rationality```.
 
-##### Perspectives on Intelligence
-sssss
+### Perspectives on Intelligence
