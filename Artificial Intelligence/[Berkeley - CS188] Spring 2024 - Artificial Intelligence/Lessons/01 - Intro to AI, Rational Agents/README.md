@@ -1,8 +1,5 @@
 # 01 - Intro to AI, Rational Agents
-<img src="https://img.shields.io/badge/status-on%20going-cyan?&labelColor=344250&color=4CAAAF"/>
-<img src="https://img.shields.io/badge/start date-18%20july%202025-cyan?&labelColor=344250&color=7799AF"/>
-<img src="https://img.shields.io/badge/project-Under%20Develop-cyan?&labelColor=344250&color=7799CF"/>
-<img src="https://img.shields.io/github/contributors/ramtinkosari/Course-Archive?color=77778F&labelColor=344250"/>
+<img src="https://img.shields.io/badge/status-on%20going-cyan?&labelColor=344250&color=4CAAAF"/> <img src="https://img.shields.io/badge/start date-18%20july%202025-cyan?&labelColor=344250&color=7799AF"/> <img src="https://img.shields.io/badge/project-Under%20Develop-cyan?&labelColor=344250&color=7799CF"/> <img src="https://img.shields.io/github/contributors/ramtinkosari/Course-Archive?color=77778F&labelColor=344250"/>
 
 UC Berkeley CS 188 Spring 2024 Course, Lesson 1
 Thanks to ```Cameron Allen```, ```Michael Cohen``` and other course staffs
