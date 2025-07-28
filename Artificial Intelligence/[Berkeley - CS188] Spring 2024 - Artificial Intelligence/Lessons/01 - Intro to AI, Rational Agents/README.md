@@ -39,3 +39,28 @@ we'll use the term ```Rational``` in a very specific, technical way :
 A better name for this course should be ```Computational Rationality```.
 
 ### Perspectives on Intelligence
+* **Skills-Based Perspective** : Intelligence is a collection of skills, means ***"if system can't do X, then it's not intelligence"*** or ***"a system is only intelligence if it can do X"***. But what are the tasks ? :
+  * Play chess ?
+  * Learn from experience ?
+  * Use words properly ?
+  * Make mistakes ?
+  * Not make mistakes ?
+  There is some contention, so what counts as intelligence and what doesn't count as as intelligence ? ***This perspective could give you a list of things that are necessary for intelligence, but doesn't necessarily mean that those things are sufficient for intelligence, it might not be enough, even if you could do all of these things, you might not be intelligent***. Also if you couldn't do one of these things, we would say that you're not intelligent, but that's also a problem because some might argue that not all of these things are necessary to be intelligent, so there is a famous essay by **Rodney Brooks** called ***Elephants Don't Play Chess***.
+  So that brings us into another perspective in intelligence and this is the one that Rodney Brooks would have argued for which is the embodiment perspective :
+* **Embodiment Perspective (Rodney Brooks)** : You need to have a body, you need to be situated in the world, you need to exist in relationship to an environment in order to be intelligent, and that you can't really get proper intelligent unless you have this situated, embodied, cognitive capability. and so he went off and founded [iRobot](www.irobot.com) and they developed Roomba vacuum cleaner. They're cool, they map your house and they figure out how they need to go around the chairs and the walls and then they firgure out where the dirt is and they vacuum it up. This is the great example of the embodied perspective which essentially it says ***start with a ground-up hierarchy, you want to start with the fact that there is a body, there is this embodied conscious or not conscious cognitive capability in the robot or in the agent, and then from there, you just build up this hierarchy of increasingly complicated behaviors until you can do useful things***.
+* **Psychometrics Perspective (François Chollet)** : This is advocated by François Chollet, among other people, Essentialy the idea is, well, if we want to measure intelligence, why don't we measure it like we try to measure intelligence in other creatures, like humans ? We could subject these AI systems to an IQ test, give them these pictures and make them complete these tasks and if we do that and we subject them to a wide variety of tasks, a broad range of tasks, including tasks that were not previously known to the ability-enabled system or the designers, because if you just measure how well this thing does, and the designers know what the tests are, you can design a system that solves every test. and then it might not actually be the system's intelligence that you're measuring, it might be the designer's intelligence that you're measuring. So that would be a problem. So Chollet's idea is, no, ***we have to make sure that these are tests that the designers can't know about and that there's a broad variety of them, and they're measuring abilities, not skills. So abilities induce skill learning, learning efficiency is key here, but also this idea of a broad range. It's not enough to just be good at one thing***.
+<div align="center">
+  <img src="../../Assets/Psychometric Perspective.png" alt="Subject AI systems to an IQ test" width="70%">
+</div>
+
+* **Human-Compatible Perspective (Stuart Russel) :** Another important perspective on intelligence is the safty angle, Stuart Russel has been advocating for this idea of human compatibility, human-compatible AI. What Stuart would argue is, ***it's not enough to maximize expected utility. You have to maximize expected human utility, and it's not enough to just maximize it by telling the AI what the reward function is or what the utility function is. You have to make sure that the AI is initially uncertain about what that utility function is and it's going to learn it overtime and never be too sure that it is right, and in order to learn those preferences the information that it gets is by watching human behavior. So this is the ultimate source of truth about what humans want, is just watching what they do***. 
+Overlall :
+  * Machine's objective is to maximize ***human utility***.
+  * Initially ***uncertain*** about human preferences.
+  * Must learn about preferences from human ***behavior***.
+
+* **Robert A. Heinlein's Perspective** : There is this really nice quote by Robert Heinlein :
+  ***A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.***
+  Wheter you agree with it or not, this is an interesting perspective on what it would mean to be a human being or what it would mean to be an intelligent creature.
+
+### What About the Brain ?
