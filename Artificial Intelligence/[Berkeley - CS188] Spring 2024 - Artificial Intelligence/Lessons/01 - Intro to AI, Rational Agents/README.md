@@ -64,3 +64,57 @@ Overlall :
   Wheter you agree with it or not, this is an interesting perspective on what it would mean to be a human being or what it would mean to be an intelligent creature.
 
 ### What About the Brain ?
+Human minds are very good at making rational decisions, ***sometimes***. there are not perfect because sometimes we do something that we know later we would regret. why would we do that ? if we are rational creatures ?
+That is one potential downside of having a biological brain. brains are not also as modular, it is hard to isolate pieces of bran that do various things as we do.
+
+### A (Short) History of AI
+* **Early days, neural and computer science meet** — ***1940 - 1950***
+  * **1940 :** McCulloch & Pitts — Perceptron-boolean circuit model of brain (first neural network)
+  * **1950 :** Turing — ***"Computing Machinery and Intelligence"*** (where he introduced Turing Test, arguments of why machines couldn't thing).
+* **Excitement ! Logic Driven** — ***1950 - 1970***
+  * **1950s :**
+    * Early AI programs, including **Samuel's checkers program**
+    * Newell & Simon's Logic Theorist
+    * Gelernter's Geometry Engine
+  * **1956 :** Dartmouth Meeting — ***"Artificial Intelligence"*** adopted
+    > What did they wanted to do ?
+    > * 2-months, 10-man study of artificial intelligence
+    > * be carried out during the summer of 1956
+    > * the studyis to proceed that ***every aspect of learning*** or ***any other feature of intelligence*** can in principle be so percisely described that a machine can be made to simulate it
+    > * ***we think that a significant advance can be made*** in one or more of these problems if a carefully selected group of scientists work on it together for a summer on these tasks :
+    >   * use language
+    >   * form abstractions and concepts
+    >   * solve kinds of problems now reserved for humans
+    >   * improve themselves
+    >
+    > But its 2024 and some of those things are starting to happen, but at the end of summer they had not made as much progress as they expected to make
+  * **1969 :** Minksky & Papert — perceptrons can't learn XOR/parity ! Maybe we should not use perceptrons, so they started working on knowledge-based reasoning approaches.
+* **Knowledge-based approaches** — ***1970 - 1990***
+  * **1969 - 1979 :** Early development of knowledge-based system — which was going really well
+  * **1980 - 1988 :** Expert systems industry ***booms***; backpropagation makes it feasible to train multi-layer neural networks. but why big boom ?
+    > We ask AI ***"All squares are shapes, all triangles are shape, is a square a triangle ?"*** and then it would say, not necessarily and we'd all clap and we'd say, yeah, that's correct.
+    > but then we realized that these facts and these true-false binaries about the world aren't going to get us all the way there. how do you encode that into a knowledge-based system that only operates on these boolean quantities ?
+    Well that's where they have a problem, which is, if you get an inconsistency in one of these knowledge systems, you suddenly can't make any claims anymore. it can prove anything is true even though not necessarily anything is always true.
+  * **1988 - 1993 :** Expert systems industry ***busts*** : ***"AI Winter"***
+    > So there was after there was this boom and then there was this bust
+* **Statistical approaches, agents** — ***1990 - 2010***
+  * Resurgence of probability, focus on uncertainty
+  * Agents and learning systems ... ***"AI Spring ?"***
+  * **1992 :** TD-Gammon achieves human-level play at backgammon
+  * **1997 :** Deep Blue defeats Gary Kasparov at chess
+  * **2002 :** ***Embodied AI*** Roomba vacuum invented
+* **Big Data, GPUs, Deep Learning** — ***2010 - 2017***
+  * **2011 :** Apple releases Siri
+  * **2012 :** AlexNet (first neural network) wins ImageNet competition — part of GPU evolution
+  * **2015 :** DeepMind achieves human-level control in Atari games — with same algorithm, that means getting closer to the idea of ***General Purpose*** behavior
+  * **2016 :** DeepMind AlphaGo defeats Lee Sedol at Go
+  * **2016 :** Google Translate migrates to neural networks
+* **Scaling Up, Large Language Models** — ***2017 - Now***
+  * **2017 :** Google invents ***Transformer** architecture — which is the thing that underpins all of these chatbots
+  * **2017 :** DeepStack/Libratus defeat humans at poker
+  * **2018 - 2020 :** AlphaFold predicts protein structure from amino acids
+  * **2021 - 2022 :** Modern text-to-image generaton
+  * **2022 :** OpenAI releases ChatGPT
+  * **2023 :** Every other company also releases a chatbot
+
+### What Can AI Do ?
