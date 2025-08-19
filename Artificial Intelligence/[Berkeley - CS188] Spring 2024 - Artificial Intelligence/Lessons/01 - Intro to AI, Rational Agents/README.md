@@ -6,16 +6,16 @@ Thanks to ```Cameron Allen```, ```Michael Cohen``` and other course staffs
 
 ## What is Artificial Intelligence ?
 - [01 - Intro to AI, Rational Agents](#01---intro-to-ai-rational-agents)
-  - [What is Artificial Intelligence ?](#what-is-artificial-intelligence-)
-    - [AI is having real-world impacts](#ai-is-having-real-world-impacts)
-    - [Ok, but what actually is AI ?](#ok-but-what-actually-is-ai-)
-    - [Rational Decisions](#rational-decisions)
-    - [Perspectives on Intelligence](#perspectives-on-intelligence)
-    - [What About the Brain ?](#what-about-the-brain-)
-    - [A (Short) History of AI](#a-short-history-of-ai)
-    - [What Can AI Do ?](#what-can-ai-do-)
-    - [This Course : Designing Rational Agents](#this-course--designing-rational-agents)
-    - [Course Topics :](#course-topics-)
+- [What is Artificial Intelligence ?](#what-is-artificial-intelligence-)
+- [AI is having real-world impacts](#ai-is-having-real-world-impacts)
+- [Ok, but what actually is AI ?](#ok-but-what-actually-is-ai-)
+- [Rational Decisions](#rational-decisions)
+- [Perspectives on Intelligence](#perspectives-on-intelligence)
+- [What About the Brain ?](#what-about-the-brain-)
+- [A (Short) History of AI](#a-short-history-of-ai)
+- [What Can AI Do ?](#what-can-ai-do-)
+- [This Course : Designing Rational Agents](#this-course--designing-rational-agents)
+- [Course Topics :](#course-topics-)
 
 
 ### AI is having real-world impacts
