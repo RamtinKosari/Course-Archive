@@ -118,3 +118,48 @@ That is one potential downside of having a biological brain. brains are not also
   * **2023 :** Every other company also releases a chatbot
 
 ### What Can AI Do ?
+* [x] Win against any human at chess ?
+* [x] Win against the best human at Go ?
+* [x] Play a decent game of table tennis ?
+* [ ] Unload any dishwasher in any home ?
+* [X] Drive safely along the highway ?
+* [ ] Drive safely along streets of San Francisco ?
+* [X] Buy a week's worth of groceries on the web ?
+* [ ] Buy a week's worth of groceries at Berkeley Bowl ?
+* [ ] Discover and prove a new mathematical theorem ?
+* [ ] Perform a surgical operation ?
+* [X] Translate spoken Chinese into spoken English in real time ?
+* [X] Win an art competition ?
+* [ ] Writean intentionally funny story ?
+* [ ] Construct a building ?
+
+So, do you notice any pattern here ? what is easy and what is still hard ?
+* Physical things are harder ?
+
+### This Course : Designing Rational Agents
+Why do we keep saying agents ? we could say robots. but it might not have a physical body so we could just be working in simulation, as we just talked about. So ***An agent is a catch-all term, it means something with agency, means that it can make decisions*** :
+* An ***agent*** is an entity that perceives and acts.
+* A ***rational agent*** selects actions that maximize its (expected) ***utility***.
+<div align="center">
+  <img src="../../Assets/agents.png" alt="Subject AI systems to an IQ test" width="40%">
+</div>
+
+* Charactristics of the ***percepts***, ***environment*** and ***action space*** dictate techniques for selecting rational agents.
+
+So this course is about :
+1. General techniques for a variety of problem types
+2. Learning to recognize when and how a new problem can be solved with an existing technique
+
+### Course Topics :
+* **Search and Planning** :
+  * How can i use ***model*** of the world to find ***sequence of actions*** to achieve my ***goal*** ?
+* **Probability and Inference** :
+  * How can i make sense of ***uncertainty*** ?
+* **Supervised Learning** :
+  * How can i learn a ***model*** of the world from ***data*** ?
+* **Reinforcement Learning** :
+  * How can i learn a ***policy*** for any situation so that i can ***maximize utility*** ?
+
+> [!TIP]
+> CS189 : Intro to Machine Learning
+> CS182 : Deep Neural Networks
