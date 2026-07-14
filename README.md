@@ -1,5 +1,5 @@
 # Course-Archive
-Personal Archive of Online Courses I’ve Completed and Still Dowing
+Personal Collection of Online Courses I've Completed and Continue to Take
 
 ## Courses
 - #### Artificial Intelligence
@@ -9,4 +9,4 @@ Personal Archive of Online Courses I’ve Completed and Still Dowing
   - [Educative.io - Machine Learning, Numpy, Pandas, Scikit Learn](./Artificial%20Intelligence/%5BEducative.io%5D%20machine-learning-numpy-pandas-scikit-learn)
   - [Sharif University of Technology - Introduction to Machine Learning](./Artificial%20Intelligence/%5BSharif%20University%20of%20Technology%5D%20Introduction%20to%20Machine%20Learning)
 - #### Astrophysics
-- 
+- #### Mathematics
